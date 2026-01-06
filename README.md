@@ -1,6 +1,6 @@
 # First_Sprint_Project_Tripleten
 
-![Project Screenshot](../About_Me_Tripleten/images/Screenshot.png)
+![Project Screenshot](./images/Screenshot.png)
 
 ## Project Overview
 
